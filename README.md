@@ -5,6 +5,7 @@
 * [在 C# 中执行基本字符串格式设置](./03-csharp-basic-formatting/)
 * [使用 C# 对数字执行基本运算操作](./04-csharp-basic-operations/)
 * [引导式项目 - 计算和打印学生的成绩](./05-guided-project-calculate-print-student-grades/)
+* [引导式项目 - 计算最终 GPA](./06-guided-project-calculate-final-gpa/)
 
 ## Ref
 
